@@ -4,8 +4,8 @@ github.com/Chronicle20/atlas-model v1.0.4 h1:e54nQ0HrYjCRg7rN4xAPZuUvPXB7ycARktf
 github.com/Chronicle20/atlas-model v1.0.4/go.mod h1:pqiCUYkDTLXkObDhi2QkVmi/ncfjq8TvESoxJSap4DM=
 github.com/Chronicle20/atlas-rest v1.0.0 h1:xPlwWah2uUUFDutFiFogCX9e3QLNn12vUqFiWXQhED8=
 github.com/Chronicle20/atlas-rest v1.0.0/go.mod h1:apd34gn88KqSYeybCb/P5AjNGTHAE48RN3fAcSa9Crc=
-github.com/Chronicle20/atlas-socket v1.2.0 h1:1ecfWr/ylPQr9KeZHHIMhJzyPJHIoZIPmyC2JgzM6tg=
-github.com/Chronicle20/atlas-socket v1.2.0/go.mod h1:aj7sgiWBcwTFEnVjJObtIgmvhJqXbK0y7krjg1u+/nI=
+github.com/Chronicle20/atlas-socket v1.2.1 h1:lt4BM5PhyIVQGVMAYxpmnQjYM7vC9TPYCXqHC/FpQWY=
+github.com/Chronicle20/atlas-socket v1.2.1/go.mod h1:ImDihdoc1SqDllzASP+uPYrU2bfzu+7XKhcozZwsuVA=
 github.com/Chronicle20/atlas-tenant v1.0.1 h1:/aJLfePzsAAXJD3ZFw496HO8O0E+UukFXy3cL/Ngc+4=
 github.com/Chronicle20/atlas-tenant v1.0.1/go.mod h1:FaJiMT0rNdFLY1Qshve0ggjCYTeGImK/XClb0eteB+E=
 github.com/cenkalti/backoff/v4 v4.3.0 h1:MyRJ/UdXutAwSAT+s3wNd7MfTIcy71VQueUuFK343L8=
