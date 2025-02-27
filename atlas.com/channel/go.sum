@@ -6,6 +6,8 @@ github.com/Chronicle20/atlas-model v1.2.1 h1:F/SYo4PAHd1BuZz5/RV65V4uv5wXHzE95LE
 github.com/Chronicle20/atlas-model v1.2.1/go.mod h1:5FNYT/ypml+goxft0XCACTEp6666yys+l6LTxSPeh1k=
 github.com/Chronicle20/atlas-rest v1.2.6 h1:rGk4fpUZSh44pRT/1eABysRUp5IfuBBqWMoAUICKOFc=
 github.com/Chronicle20/atlas-rest v1.2.6/go.mod h1:0ovmjTmjn4tnTHZ+BdrKKtMjsim0P5F0QTojK5naUmM=
+github.com/Chronicle20/atlas-rest v1.2.8 h1:eWLapf8h9LLDReucByGa+UgIGaS2Fh0CG9TGShfwbhk=
+github.com/Chronicle20/atlas-rest v1.2.8/go.mod h1:3edoNAfSFcpKmYlsjZXPWIfJTAGlPcFNH19AgBY2SCs=
 github.com/Chronicle20/atlas-socket v1.2.2 h1:K1UwLOzFmfb8XL2FRsbjU8yIY10Xht/WBPaMW5VqMHU=
 github.com/Chronicle20/atlas-socket v1.2.2/go.mod h1:xG8pctn0m74+iI94eeK8S2VecRNJsDoOQyr8TYIIT70=
 github.com/Chronicle20/atlas-tenant v1.0.4 h1:zS+hK56eNTVDlvTvSFN4wo9hZQ9aM/6SxXzRL+9P2Zk=
@@ -55,6 +57,8 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.1 h1:e9Rjr40Z98/clHv5Yg79Is0Ntos
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.1/go.mod h1:tIxuGz/9mpox++sgp9fJjHO0+q1X9/UOWd798aAm22M=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/json-iterator/go v1.1.9/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
+github.com/jtumidanski/api2go v1.0.2 h1:IUjaUw90/IVzFDGOGF7sCqlPXPJGv1F19xpmjaK5PQA=
+github.com/jtumidanski/api2go v1.0.2/go.mod h1:zW20JAl5i6+DsWyEfg8CaWO7Z1jBBierOg6sz7GEcQY=
 github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
 github.com/klauspost/compress v1.15.9/go.mod h1:PhcZ0MbTNciWF3rruxRgKxI5NkcHHrHUDtV4Yw2GlzU=
 github.com/klauspost/compress v1.17.11 h1:In6xLpyWOi1+C7tXUUWv2ot1QvBjxevKAaI6IXrJmUc=
